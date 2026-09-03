@@ -6,6 +6,7 @@ Trabajo principalmente en desarrollo y mantenimiento de módulos custom sobre Od
 
 **Experiencia**
 - **Nunsys Grupo UNE** — Desarrollador Odoo (2024 – actualidad)
+- **Augetec** — Desarrollador Odoo (2025 – actualidad)
 - **ITConsulting** — Desarrollador Odoo (2022 – 2026)
 
 **Stack:** Python · Odoo · PostgreSQL · JavaScript · Bash · Git
